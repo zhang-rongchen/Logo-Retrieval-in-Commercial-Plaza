@@ -2,6 +2,7 @@
 # Introduction
  
 This is a Keras implementation of Logo Retrieval which is applied in commercial plaza 
+
 Based on yolov3(mobilenet) VGG16
 # Requirements
 
